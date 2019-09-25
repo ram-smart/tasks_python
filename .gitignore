@@ -51,5 +51,10 @@ atlassian-ide-plugin.xml
 venv/
 venv3.6/
 
+# Python files
+__pycache__
+__pycache__/**
+*.pyc
+
 tmp.py
 tmp2.py
